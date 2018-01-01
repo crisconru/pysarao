@@ -1,0 +1,2 @@
+# pysarao
+Repo para el Pysarao del 4 de Enero de 2018 -> [PySarao Navideño](En Hacklab Almería volvemos a la carga con otro sarao de Python. El evento va a consistir en 3 pequeñas charlas:  - TDD con Flask y Python, por Victor Suarez - Web Scrapping con Python, por Juan Jose Salvador - PySerial e impresoras térmicas, por Cristóbal Contreras  Más info en el siguiente link  https://foro.hacklabalmeria.net/t/pysarao-navideno-hacklab-almeria/9184)
